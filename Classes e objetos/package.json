@@ -1,0 +1,25 @@
+{
+  "name": "projetos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "ex01": "npx ts-node ./exercicio01.ts",
+    "ex02": "npx ts-node ./exercicio02.ts",
+    "ex03": "npx ts-node ./exercicio03.ts",
+    "ex04": "npx ts-node ./exercicio04.ts",
+    "ex05": "npx ts-node ./exercicio05.ts",
+    "ex06": "npx ts-node ./exercicio06.ts",
+    "ex07": "npx ts-node ./exercicio07.ts",
+    "ex08": "npx ts-node ./exercicio08.ts",
+    "ex09": "npx ts-node ./exercicio09.ts",
+    "ex10": "npx ts-node ./exercicio10.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
