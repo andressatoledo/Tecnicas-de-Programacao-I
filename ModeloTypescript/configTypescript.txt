@@ -3,3 +3,6 @@ npm init -y
 npm i -D ts-node typescript
 
 tsc --init
+
+-- Rodar o prompt-sync
+npm install --save @types/prompt-sync
